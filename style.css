@@ -117,12 +117,12 @@ body * {
     .left-login > h1{
         display: none;
     }
-    .rigth-login{
+    .right-login{
         width: 100%;
         weight: auto;
     }
     .left-login-image{
-        width: 50vh;
+        width: auto;
     }
     .card-login{
         width: 90%;
